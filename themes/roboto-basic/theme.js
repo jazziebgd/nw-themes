@@ -1,6 +1,7 @@
 exports.theme = {
     path: __dirname,
-    name: 'dark-roboto',
+    name: 'roboto-basic',
+    extends: 'basic',
     initCssFiles: [
         './css/config.css',
         './css/fonts.css',
