@@ -3,12 +3,9 @@ exports.theme = {
     name: 'roboto-basic',
     extends: 'basic',
     initCssFiles: [
-        './css/config.css',
         './css/fonts.css',
     ],
-    cssFiles: [
-        './css/theme.css'
-    ],
+    cssFiles: [],
     overrideCssFiles: [
         './css/style.css'
     ],
