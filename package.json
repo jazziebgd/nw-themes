@@ -1,6 +1,6 @@
 {
     "name": "nw-themes",
-    "version": "1.1.1",
+    "version": "1.1.2",
     "description": "Basic themes for nw-skeleton nwjs framework",
     "main": "index.js",
     "repository": {
