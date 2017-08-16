@@ -5,9 +5,9 @@
     "main": "index.js",
     "repository": {
         "type": "git",
-        "url": "git+ssh://git@github.com/jazziebgd/nw-themes.git"
+        "url": "git+ssh://git@github.com/nwfw/nw-themes.git"
     },
-    "scripts": {},
     "author": "Dino Ivankov <dinoivankov@gmail.com>",
-    "license": "MIT"
+    "license": "MIT",
+    "homepage": "https://github.com/nwfw/nw-themes"
 }
