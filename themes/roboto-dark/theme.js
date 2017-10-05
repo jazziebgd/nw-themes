@@ -3,6 +3,7 @@ exports.theme = {
     name: 'roboto-dark',
     extends: 'dark',
     initCssFiles: [
+        './css/config.css',
         './css/fonts.css',
     ],
     cssFiles: [],
